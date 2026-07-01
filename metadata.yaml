@@ -2,7 +2,7 @@ name: astrbot_plugin_confucius_said
 display_name: 大儒帮我辩经
 desc: 用春秋笔法讲现代道理 —— 输入问题，大儒以春秋故事为你辩论。支持温和相劝、大儒辩经、强行圆场、痛心察小四种模式。
 short_desc: 儒者帮你用春秋故事讲现代道理
-author: confucius_plugin
+author: Zam
 version: v1.0.0
 astrbot_version: ">=4.5.7"
 support_platforms:

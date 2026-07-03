@@ -1,7 +1,25 @@
-"""
-大儒帮我辩经 - AstrBot 插件
-用春秋笔法讲现代道理，支持四种儒家辩经模式。
-"""
+# SPDX-License-Identifier: GPL-3.0-or-later
+#
+# 大儒帮我辩经 - AstrBot 插件
+# Copyright (C) 2026 Zam
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+#
+# ============================================================
+# 大儒帮我辩经 - AstrBot 插件
+# 用春秋笔法讲现代道理，支持四种儒家辩经模式。
+# ============================================================
 import sys
 import os
 import json

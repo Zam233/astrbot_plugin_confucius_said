@@ -1,3 +1,30 @@
+# SPDX-License-Identifier: GPL-3.0-or-later
+#
+# 大儒帮我辩经 - AstrBot 插件
+# Copyright (C) 2026 Zam
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <https://www.gnu.org/licenses/>.
+#
+# ============================================================
+# Attribution for adapted content
+# ============================================================
+# This file contains adapted prompt structures, rule frameworks,
+# and language guidelines from the "speak-zhouli" project.
+# Original work: MIT License, Copyright (c) 2026 Aspirin0000
+# Original project: https://github.com/Aspirin0000/zhouli-translator
+# ============================================================
+
 """
 提示词定义 - 大儒帮我辩经插件
 参考「合乎周礼」风格：现代白话译文腔 / 春秋晦涩文言，用故事讲道理。

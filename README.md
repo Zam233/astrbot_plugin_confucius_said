@@ -91,7 +91,7 @@ astrbot_plugin_confucius_said/
 
 ## 致谢
 
-本插件的提示词风格参考了[**合乎周礼**](https://hehuzhouli.com/) 网站的设计思路与表达方式，特此致敬。
+本插件的提示词风格参考了[**合乎周礼**](https://hehuzhouli.com/) （[**Github**](https://github.com/Aspirin0000/zhouli-translator#speak-zhouli-skill)）网站的设计思路与表达方式，特此致敬。
 
 ## 许可
 
